@@ -29,13 +29,15 @@ namespace VideoStreamProject
 
         private void button2_Click(object sender, EventArgs e)
         {
-            if (openFileDialog1.ShowDialog() == DialogResult.OK)
-            { 
             
+            if (openFileDialog1.ShowDialog() == DialogResult.OK)
+            {
+                axWindowsMediaPlayer1.URL = openFileDialog1.FileName;
+
             
             }
-           
 
+            
             
         }
 
@@ -44,7 +46,7 @@ namespace VideoStreamProject
             if (openFileDialog2.ShowDialog() == DialogResult.OK)
             {
 
-
+                axWindowsMediaPlayer2.URL = openFileDialog2.FileName;
             }
         }
 
@@ -55,7 +57,7 @@ namespace VideoStreamProject
 
         private void axWindowsMediaPlayer1_Enter(object sender, EventArgs e)
         {
-
+            
         }
 
         private void Scan_Click(object sender, EventArgs e)

@@ -1,7 +1,6 @@
 c:\users\rao arslan\documents\visual studio 2013\Projects\VideoStreamProject\VideoStreamProject\bin\Debug\VideoStreamProject.exe.config
 c:\users\rao arslan\documents\visual studio 2013\Projects\VideoStreamProject\VideoStreamProject\bin\Debug\VideoStreamProject.exe
 c:\users\rao arslan\documents\visual studio 2013\Projects\VideoStreamProject\VideoStreamProject\bin\Debug\VideoStreamProject.pdb
-c:\users\rao arslan\documents\visual studio 2013\Projects\VideoStreamProject\VideoStreamProject\obj\Debug\VideoStreamProject.csprojResolveAssemblyReference.cache
 c:\users\rao arslan\documents\visual studio 2013\Projects\VideoStreamProject\VideoStreamProject\obj\Debug\VideoStreamProject.Properties.Resources.resources
 c:\users\rao arslan\documents\visual studio 2013\Projects\VideoStreamProject\VideoStreamProject\obj\Debug\VideoStreamProject.csproj.GenerateResource.Cache
 c:\users\rao arslan\documents\visual studio 2013\Projects\VideoStreamProject\VideoStreamProject\obj\Debug\VideoStreamProject.exe
